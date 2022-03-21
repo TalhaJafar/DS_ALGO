@@ -1,0 +1,20 @@
+{
+  "name": "ds_algo",
+  "version": "1.0.0",
+  "description": "data structures & algorihtms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalhaJafar/DS_ALGO.git"
+  },
+  "author": "Talha Jafar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TalhaJafar/DS_ALGO/issues"
+  },
+  "homepage": "https://github.com/TalhaJafar/DS_ALGO#readme"
+}
